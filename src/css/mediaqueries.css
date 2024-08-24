@@ -1,0 +1,21 @@
+@media(max-width:393px) {
+
+    .main-card {
+        height: 150vw;
+        width: 100vw;
+        background-color: var(--neutral-White);
+        border-radius: 1.3vw;
+    }
+
+    .main-card {
+        border: 1px solid black;
+        box-shadow: 9px 9px;
+    }
+
+    .img {
+        width: 18vw;
+        border-radius: 20px;
+        margin: 3px;
+        padding: 10px 10px;
+    }
+}
