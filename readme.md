@@ -2,7 +2,7 @@
 
 Esta é uma solução para o [desafio de cartão de pré-visualização de blog no Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
 
-## Índice
+# Índice
 
 - [Visão-geral](#visao-geral)<br>
   <span style="font-size:25px">&#127919;</span>
