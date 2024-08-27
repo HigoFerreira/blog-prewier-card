@@ -3,18 +3,15 @@
 ## Visão-geral
 
 ### O desafio
-
-<span style="font-size:25px">&#127919;</span>
+<span style="font-size:30px">&#127919;</span>
 Com este projeto o usuário será capaz de interegir com o cartão de pré-visualização de blog e vendo nele o estado de fofo-a-foco.
 
 ### Objetivo
-
-<span style="font-size:25px">&#129470;</span>
+<span style="font-size:30px">&#129470;</span>
 Recriar o desafio proposto pelo Frontend Mentor, cartão de pré-vizualização de blog, chegando o mais próximo possível do adesigner original.
 
 ### Captura-de-tela
-
-<span style="font-size:25px">&#128247;</span>
+<span style="font-size:30px">&#128247;</span>
 
 <img src="./src/images/Captura de tela 2024-08-26 151029.png" >
 
